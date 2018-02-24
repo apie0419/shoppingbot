@@ -1,0 +1,8 @@
+Flask>=0.12
+gunicorn>=19.6.0
+line-bot-sdk>=1.5.0
+psycopg2>=2.7.3
+Pillow>=4.0.0
+imgurpython
+PyDrive>=1.2.1
+pyasn1_modules
